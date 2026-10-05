@@ -1,0 +1,11 @@
+{
+  "publisher":{"name":"British Theatre Playhouse","url":"https://britishtheatreplayhouse.com","email":"producers@britishtheatreplayhouse.com"},
+  "canonicalShowUrl":"https://britishtheatreplayhouse.com/londons-west-end-rising-stars/",
+  "production":"London’s West End Rising Stars – East Meets West in Musical Theatre",
+  "canonicalEventDataNote":"Dedicated BTP show page treated as authoritative where general homepage copy differs.",
+  "events":[
+    {"city":"Kuala Lumpur","date":"2026-10-21","venue":"Hilton Kuala Lumpur, Grand Ballroom","format":"Dinner-theatre; curated 4-course meal served before the show"},
+    {"city":"Singapore","date":"2026-10-24","venue":"Capitol Theatre","performances":[{"time":"14:00","type":"Afternoon Matinee"},{"time":"19:00","type":"Art for Charity Gala"}]}
+  ],
+  "announcedTalent":["Miranda Wilford","Christine Allado","Aaron Teoh","Louis Djilbril Thiam"]
+}
