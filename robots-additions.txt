@@ -1,0 +1,2 @@
+Allow: /discover/
+Sitemap: https://britishtheatreplayhouse.com/discover/sitemap.xml
