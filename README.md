@@ -25,3 +25,25 @@ Singapore: 24 October 2026 — Capitol Theatre — 2:00 PM Afternoon Matinee and
 
 Do not block /discover/ in robots.txt.
 Submit /discover/sitemap.xml to Google Search Console and Bing Webmaster Tools.
+
+
+## WordPress companion plugin
+
+Source:
+`wordpress-plugin/btp-search-intelligence/`
+
+Install:
+1. Copy `wordpress-plugin/btp-search-intelligence` to `wp-content/plugins/`
+2. Activate **BTP Search Intelligence**
+3. Go to **Settings → BTP Search Intelligence**
+4. Enter confirmed IDs only:
+   - GA4 Measurement ID
+   - Google Search Console verification value
+   - Bing Webmaster verification value
+   - optional Microsoft Clarity Project ID
+5. Verify:
+   - `/wp-json/btp/v1/event`
+   - `/llms.txt`
+   - `/discover/sitemap.xml`
+
+The plugin does not alter the visible site design or rewrite the current WordPress pages.
